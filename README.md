@@ -18,29 +18,29 @@ A NEMA 23 stepper motor, which is positioned below the rails, helps with the mot
 <b>NEMA 17 stepper motor</b>
 
 Motor 1:<br>
-dirPin1 3
+dirPin1 3 <br>
 stepPin1 2
 
 Motor 2:<br>
-dirPin2 4
+dirPin2 4 <br>
 stepPin2 5
 
 Motor 3:<br>
-dirPin3 6
+dirPin3 6 <br>
 stepPin3 7
 
 Motor 4:<br>
-dirPin4 8
+dirPin4 8 <br>
 stepPin4 9
 
 <b>NEMA 23 stepper motor</b>
 
 Motor 1:<br>
-dirPin5 10
+dirPin5 10 <br>
 stepPin5 11
 
 Motor 2:<br>
-dirPin6 12
+dirPin6 12 <br>
 stepPin6 13
 
 # General functions available
