@@ -1,5 +1,5 @@
 # Rubiks-Solver
-To solve a Rubik's cube with the help of stepper motors using Arduino
+To solve a Rubik's cube with the help of stepper motors using Arduino - [See Project](https://marjerie.github.io/projects/RCS)
 
 # Components
 * NEMA 17 stepper motor (4)
